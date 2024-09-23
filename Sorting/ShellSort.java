@@ -22,7 +22,7 @@ public class ShellSort {
                         a[i + gap] = temp;
                     }
                 }
-            }
+            }   
         }
     }
 }
