@@ -4,7 +4,7 @@ package PCPH;
 
 import java.util.Scanner;
 
-public class Main {
+public class Div2_829 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
