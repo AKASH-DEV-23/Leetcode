@@ -13,7 +13,7 @@ public class Div2_829 {
             int n = sc.nextInt();
             char ch[] = sc.next().toCharArray();
             int q = 0;
-            int a = 0;
+            // int a = 0;
             for (int i = 0; i < n; i++) {
                 if (ch[i] == 'Q') {
                     q++;
